@@ -1,0 +1,34 @@
+Poster image alt text reference
+Use poster images only where relevant; avoid price, offer and guarantee wording from posters.
+
+g1.webp: GST registration, GST return filing and GST compliance poster reference | original 115173 bytes -> optimized 66498 bytes
+g10.webp: GST registration, GST return filing and GST compliance poster reference | original 372089 bytes -> optimized 138298 bytes
+g11.webp: GST registration, GST return filing and GST compliance poster reference | original 257612 bytes -> optimized 125048 bytes
+g12.webp: GST registration, GST return filing and GST compliance poster reference | original 291486 bytes -> optimized 109342 bytes
+g13.webp: GST registration, GST return filing and GST compliance poster reference | original 68815 bytes -> optimized 45442 bytes
+g2.webp: GST registration, GST return filing and GST compliance poster reference | original 153322 bytes -> optimized 58158 bytes
+g3.webp: GST registration, GST return filing and GST compliance poster reference | original 194126 bytes -> optimized 87956 bytes
+g4.webp: GST registration, GST return filing and GST compliance poster reference | original 396078 bytes -> optimized 172516 bytes
+g5.webp: GST registration, GST return filing and GST compliance poster reference | original 85247 bytes -> optimized 50348 bytes
+g6.webp: GST registration, GST return filing and GST compliance poster reference | original 90418 bytes -> optimized 57628 bytes
+g7.webp: GST registration, GST return filing and GST compliance poster reference | original 52933 bytes -> optimized 31894 bytes
+g8.webp: GST registration, GST return filing and GST compliance poster reference | original 55500 bytes -> optimized 41902 bytes
+g9.webp: GST registration, GST return filing and GST compliance poster reference | original 387655 bytes -> optimized 146060 bytes
+h1.webp: Accounting solutions home page service poster reference | original 334309 bytes -> optimized 139032 bytes
+h2.webp: Accounting solutions home page service poster reference | original 361337 bytes -> optimized 103508 bytes
+h3.webp: Accounting solutions home page service poster reference | original 95467 bytes -> optimized 68322 bytes
+h4.webp: Accounting solutions home page service poster reference | original 329544 bytes -> optimized 128994 bytes
+s1.webp: Tax filing, business registration and accounting service poster reference | original 260809 bytes -> optimized 121332 bytes
+s10.webp: Tax filing, business registration and accounting service poster reference | original 63405 bytes -> optimized 38978 bytes
+s11.webp: Tax filing, business registration and accounting service poster reference | original 107298 bytes -> optimized 66478 bytes
+s12.webp: Tax filing, business registration and accounting service poster reference | original 77364 bytes -> optimized 56812 bytes
+s13.webp: Tax filing, business registration and accounting service poster reference | original 87708 bytes -> optimized 55812 bytes
+s14.webp: Tax filing, business registration and accounting service poster reference | original 280631 bytes -> optimized 95832 bytes
+s2.webp: Tax filing, business registration and accounting service poster reference | original 187114 bytes -> optimized 117814 bytes
+s3.webp: Tax filing, business registration and accounting service poster reference | original 156915 bytes -> optimized 64088 bytes
+s4.webp: Tax filing, business registration and accounting service poster reference | original 45299 bytes -> optimized 27274 bytes
+s5.webp: Tax filing, business registration and accounting service poster reference | original 38527 bytes -> optimized 23108 bytes
+s6.webp: Tax filing, business registration and accounting service poster reference | original 253075 bytes -> optimized 132772 bytes
+s7.webp: Tax filing, business registration and accounting service poster reference | original 82983 bytes -> optimized 64580 bytes
+s8.webp: Tax filing, business registration and accounting service poster reference | original 68159 bytes -> optimized 47360 bytes
+s9.webp: Tax filing, business registration and accounting service poster reference | original 63752 bytes -> optimized 44748 bytes
