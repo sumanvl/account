@@ -1,0 +1,1 @@
+ACCT36 HTML-only export generated from ACCTW_H27 MVC source. Header/footer/menu/CSS/content are taken from the last MVC output, with local file links converted to explicit index.html paths. No MVC/Razor files included.
